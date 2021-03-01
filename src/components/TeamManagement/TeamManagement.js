@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from 'react';
-import Players from './Players/Players';
+import Players from '../Players/Players';
 import Player from '../../Data/Players.json';
 import './TeamManagement.css';
-import SelectedPlayers from './SelectedPlayers/SelectedPlayers';
+import SelectedPlayers from '../SelectedPlayers/SelectedPlayers';
 
 const TeamManagement = () => {
     const [selectedPlayer, setSelectedPlayer] = useState([]);
