@@ -7,7 +7,8 @@
     padding: 10px;
 }
 .selectedPlayerName{
-    background-color: limegreen;
+    background-color: green;
     padding-left: 15px;
     border-radius: 5px;
+    color: white;
 }

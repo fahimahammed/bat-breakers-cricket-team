@@ -15,7 +15,8 @@ const Players = (props) => {
             <p>Playing Role: {type}</p>
             <p>Age: {age}</p>
             <h5>Salary: {salary}/-</h5>
-            <button onClick={()=>props.addPlayer(props.players)} class='btn btn-success'><FontAwesomeIcon icon={faPlusCircle} /> Add Player</button>
+            {/* create button using bootstrap */}
+            <button onClick={()=>props.addPlayer(props.players)} className='btn btn-success'><FontAwesomeIcon icon={faPlusCircle} /> Add Player</button>
         </div>
         
     );
