@@ -1,0 +1,15 @@
+.player-container{
+    background-color: aliceblue;
+    margin:10px;
+    padding: 10px;
+    border: 2px solid red;
+    border-radius: 10px;
+    text-align: center;
+    width: 240px;
+    
+}
+.player-container img{
+    height: 207px;
+    border-radius: 50%;
+    border: 5px solid green;
+}

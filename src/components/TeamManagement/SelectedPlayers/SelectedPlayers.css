@@ -1,0 +1,13 @@
+.addPlayerSummary{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.addedPlayer{
+    margin-left: 10px;
+    padding: 10px;
+}
+.selectedPlayerName{
+    background-color: limegreen;
+    padding-left: 15px;
+    border-radius: 5px;
+}

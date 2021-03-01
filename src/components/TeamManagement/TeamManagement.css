@@ -1,0 +1,14 @@
+.players-container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 62%;
+    border-right: 1px solid lightslategray;
+    margin-left: 50px;
+    
+}
+.team-container{
+    display: flex;
+}
+.selectedPlayer-container{
+    width: 35%;
+}

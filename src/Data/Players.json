@@ -1,0 +1,106 @@
+[{
+    "id": 1,
+    "name": "Sakib All Hasan",
+    "type": "All-rounder",
+    "salary": 200000,
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303157.jpg",
+    "age": "33"
+  }, {
+    "id": 2,
+    "name": "Mashrafe Bin Mortaza",
+    "type": "Bowler",
+    "salary": 200000,
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/302900/302999.jpg",
+    "age": "37"
+  }, {
+    "id": 3,
+    "name": "Mushfiqur Rahim",
+    "type": "Wicketkeeper",
+    "salary": 180000,
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303148.jpg",
+    "age": "33"
+  }, {
+    "id": 4,
+    "name": "Mahmudullah Riyad",
+    "type": "All-rounder",
+    "salary": 178000,
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/263500/263581.jpg",
+    "age": "35"
+  }, {
+    "id": 5,
+    "name": "Mohammad Mithun",
+    "type": "Batsman",
+    "salary": 100000,
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303144.jpg",
+    "age": "29"
+  }, {
+    "id": 6,
+    "name": "Mustafizur Rahman",
+    "type": "Bowler",
+    "salary": 148900,
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/263500/263578.jpg",
+    "age": "25"
+  }, {
+    "id": 7,
+    "name": "Rubel Hossain",
+    "type": "Bowler",
+    "salary": 110000,
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/263500/263594.jpg",
+    "age": "31"
+  }, {
+    "id": 8,
+    "name": "Afif Hossain",
+    "type": "All-rounder",
+    "salary": 98000,
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/306000/306068.1.jpg",
+    "age": "21"
+  }, {
+    "id": 9,
+    "name": "Liton Kumar Das",
+    "type": "Batsman",
+    "salary": 156000,
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/302900/302995.jpg",
+    "age": "26"
+  }, {
+    "id": 10,
+    "name": "Tamim Iqbal",
+    "type": "Batsman",
+    "salary": 174000,
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303166.jpg",
+    "age": "31"
+  }, {
+    "id": 11,
+    "name": "Mehidy Hasan Miraz",
+    "type": "All-rounder",
+    "salary": 134000,
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/303000/303000.jpg",
+    "age": "23"
+  }, {
+    "id": 12,
+    "name": "Mohammad Saifuddin",
+    "type": "All-rounder",
+    "salary": 128000,
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/303200/303236.jpg",
+    "age": "24"
+  }, {
+    "id": 13,
+    "name": "Taskin Ahmed",
+    "type": "Bowler",
+    "salary": 130000,
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303169.jpg",
+    "age": "26"
+  }, {
+    "id": 14,
+    "name": "Soumya Sarkar",
+    "type": "Batsman",
+    "salary": 1360000,
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/303100/303160.jpg",
+    "age": "28"
+  }, {
+    "id": 15,
+    "name": "Hasan Mahmud",
+    "type": "Bowler",
+    "salary": 100000,
+    "photo": "https://p.imgci.com/db/PICTURES/CMS/303200/303249.jpg",
+    "age": "21"
+  }]
